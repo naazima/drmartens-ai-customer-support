@@ -248,7 +248,7 @@ curl -X POST http://localhost:5000/api/chat \
 
 ## 👩‍💻 Author
 
-**Afreen Naaz **
+**Afreen Naaz**
 - GitHub: [@naazima](https://github.com/naazima)
 
 ---
